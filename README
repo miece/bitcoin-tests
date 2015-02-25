@@ -5,3 +5,5 @@ There are files for
     1. Creating an Address for the production and test net
     2. Creating a test Wallet
     3. Sending a transaction of 1 BTC and showing the wallet before and after
+    
+The tests are located in bitcointest/core/src/main/java/
