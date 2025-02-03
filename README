@@ -6,4 +6,4 @@ There are files for
     2. Creating a test Wallet
     3. Sending a transaction of 1 BTC and showing the result of wallet before and after
     
-The tests are located in bitcointest/core/src/main/java/
+The tests are located in bitcointest/core/src/main/java/ 
