@@ -7,3 +7,4 @@ There are files for
     3. Sending a transaction of 1 BTC and showing the result of wallet before and after
     
 The tests are located in bitcointest/core/src/main/java/
+ 
